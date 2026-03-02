@@ -1,0 +1,35 @@
+# Small Cap Alpha Fund - Factsheet (March 2024)
+
+## Fund Objective
+The Small Cap Alpha Fund seeks to generate long-term capital appreciation by investing predominantly in equity and equity-related instruments of small-cap companies. The fund focuses on high-growth potential businesses with strong management and competitive advantages.
+
+## Fund Details
+- **AUM:** $1.2 Billion
+- **Inception Date:** January 15, 2018
+- **Benchmark:** Nifty Smallcap 250 Index
+- **Fund Manager:** Sarah Jenkins
+
+## Sector Allocation
+The fund maintains a diversified portfolio across various sectors to mitigate risks while capturing growth. As of March 31, 2024, the top sector allocations are as follows:
+The Information Technology sector remains the largest holding at 22.5%, driven by mid-sized software service providers. 
+The Capital Goods sector follows closely at 18.2%, reflecting the fund's positive outlook on the manufacturing rebound. 
+Consumer Discretionary accounts for 15.8% of the fund, particularly focusing on emerging lifestyle brands. 
+Healthcare and Pharmaceuticals represent 12.1% of the portfolio, while Financial Services make up 10.4%, primarily through niche lending institutions.
+
+## Top 5 Holdings
+1. TechPro Solutions (4.5%)
+2. BuildRight Infra (4.2%)
+3. HealthFirst Lab (3.8%)
+4. ConsumerPlus Ltd (3.5%)
+5. FinSmart Services (3.1%)
+
+## Performance Summary
+- 1 Year: 34.5%
+- 3 Years (CAGR): 22.1%
+- Since Inception (CAGR): 18.7%
+
+## Risk Profile
+High risk due to the nature of small-cap stocks. Suitable for investors with a long-term horizon of at least 5-7 years.
+
+## Disclaimer
+Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing.
