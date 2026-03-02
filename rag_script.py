@@ -22,3 +22,17 @@ collection.add(
     documents=chunks,
     ids=[f"id_{i}" for i in range(len(chunks))]
 )
+
+print("Chunks added to Chroma successfully!")
+
+query_text = "What are the fund's top sector allocations?"
+
+results = collection.query(
+    query_texts=[query_text],
+    n_results=5
+)
+
+for i, doc in enumerate(results['documents'][0]):
+    print(f"--- Result {i+1} ---")
+    print(doc)
+    print("\n" + "-"*50 + "\n")
